@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\Filipe Roque\Desktop\Entregas Jhon\ServiceDeskCCO-rest\ServiceDeskCCO-rest\ServiceDeskCCO.iml" filepath="C:\Users\Filipe Roque\Desktop\Entregas Jhon\ServiceDeskCCO-rest\ServiceDeskCCO-rest\ServiceDeskCCO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceDeskCCO-rest.iml" filepath="$PROJECT_DIR$/ServiceDeskCCO-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Filipe Roque\Desktop\Entregas Jhon\ServiceDeskCCO-rest\ServiceDeskCCO-rest\app\app.iml" filepath="C:\Users\Filipe Roque\Desktop\Entregas Jhon\ServiceDeskCCO-rest\ServiceDeskCCO-rest\app\app.iml" />
+    </modules>
+  </component>
+</project>
